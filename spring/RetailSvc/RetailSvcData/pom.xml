@@ -16,8 +16,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
 				<configuration>
-					<source />
-					<target />
+					<source/>
+					<target/>
 				</configuration>
 			</plugin>
 			<!-- Query DSL plugin START -->
@@ -154,7 +154,7 @@
 		<dependency>
 			<groupId>commons-collections</groupId>
 			<artifactId>commons-collections</artifactId>
-			<version>3.2.1</version>
+			<version>3.2.2</version>
 		</dependency>
 
 		<dependency>
