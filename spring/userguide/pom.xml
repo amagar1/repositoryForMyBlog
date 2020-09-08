@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<cxf.version>3.0.3</cxf.version>
+		<cxf.version>3.2.12</cxf.version>
 		<dbh2.version>1.4.193</dbh2.version>
 		<spring.version>4.1.4.RELEASE</spring.version>
 		<spring.security.version>4.0.0.RELEASE</spring.security.version>
