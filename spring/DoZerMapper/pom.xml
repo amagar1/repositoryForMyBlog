@@ -11,14 +11,14 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
 				<configuration>
-					<source />
-					<target />
+					<source/>
+					<target/>
 				</configuration>
 			</plugin>
 		</plugins>
 	</build>
 	<properties>
-		<spring.version>4.1.4.RELEASE</spring.version>
+		<spring.version>4.3.29.RELEASE</spring.version>
 	</properties>
 	<dependencies>
 		<dependency>
